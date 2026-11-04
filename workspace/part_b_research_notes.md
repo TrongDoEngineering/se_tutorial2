@@ -1,0 +1,14 @@
+# Simulated discovery notes
+
+These notes simulate eight manager interviews conducted with the final guide and two dinner-service observations, as permitted by the tutorial.
+
+- **I1 — Sam, small noodle shop:** Sam manages five people and covers the counter during the 18:00–20:30 rush. Delivery orders are announced by one shared tablet. He sometimes notices an order late when serving a walk-in customer. His desired outcome is to accept every feasible order without interrupting counter service. When overloaded, he wants control over new order intake.
+- **I2 — Mai, neighbourhood café:** Mai checks each delivery bag against the order number. Riders sometimes arrive before food is ready and repeatedly ask for updates. She wants accurate ready-time information and a clear handover check.
+- **I3 — Linh, high-volume fast-casual restaurant:** Delivery is roughly half of Linh's dinner business. She changes quoted preparation times during peaks and wants unavailable items removed before another customer orders them. She wants predictable throughput and fewer cancellations.
+- **I4 — Huy, family restaurant:** Huy writes tablet orders onto paper kitchen tickets. Modifiers can be missed during transcription. He wants the kitchen to see complete item and modifier information without retyping it.
+- **I5 — Sam, follow-up:** Sam described a sold-out soup that remained orderable for 20 minutes. Calling affected customers and arranging substitutions consumed his attention. He wants to mark an item unavailable quickly and restore it for the next day.
+- **I6 — Linh, follow-up:** Linh stages completed bags by order number. A rider once collected the wrong bag when two names were similar. She wants order-number verification and a recorded handover.
+- **I7 — Quang, food-court outlet:** Shared mall Wi-Fi drops briefly most evenings. Quang records status changes on paper and re-enters them later. He wants work performed during an outage to synchronize without duplication when service returns.
+- **I8 — Anh, full-service restaurant:** Anh prioritises seated guests and sees delivery as secondary revenue. Audible alerts disrupt the dining room. He wants delivery activity visible without repeated noise and wants riders kept informed without crowding the host stand.
+- **O1 — Sam's shop, 18:10–19:10:** Sam moved among the counter, packing station, and tablet. One new order waited about three minutes before acknowledgement. He opened three screens to find a customer's phone number after an item sold out. Two completed bags were identified with handwritten order numbers.
+- **O2 — Linh's restaurant, 19:00–20:00:** A staff member continually watched the tablet and verbally relayed status to the kitchen. Two riders arrived before their orders were ready. One menu item sold out and remained visible until Linh returned to the tablet. Staff compared the rider's displayed order number with the bag before handover.
